@@ -1,0 +1,8 @@
+LEVEL UP — STUDENT EDITION | Free beta
+Separate from your personal edition. Do not replace the personal app files.
+
+Deploy: use a separate HTTPS static website. All five runtime files must be at its root: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png. No build command or backend is needed. For a non-commercial free educational test, a separate GitHub Pages repository is an option; before commercial launch, use hosting that permits commercial use. A parent/guardian should manage hosting and payment accounts where age requirements apply. Do not bypass provider age checks. On iPhone use Safari > Share > View More > Add to Home Screen. Install first, then create a vault. Android Chrome may offer Install app or Add to Home screen.
+
+Privacy: Each installation uses its own encrypted local vault, with no account or server-side sync. No analytics or payment functionality is present. The host may receive connection metadata. Use a long passphrase and make encrypted backups. Lost passphrases cannot be recovered. Clearing app/browser storage can erase data. Offline use after the app shell is successfully cached. Never publish backups, passphrases or student records. Do not ask testers for personal details or screenshots of their private journal.
+
+Beta test: ask 5–10 students to try creating an exam, adding a revision topic, reviewing a flashcard and logging a study session. Ask what worked, what confused them, and which feature they would pay for; feedback should be optional and non-sensitive. No paid features are implemented. Do not charge until you have reliable functionality, suitable hosting and adult-supported payment/refund arrangements.
